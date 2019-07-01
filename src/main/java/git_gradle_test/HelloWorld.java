@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("World's end Dancehall");
 		System.out.println("Earth's end Dancehall");
 		System.out.println("Hello Dance World");
+		System.out.println("GitHub Editing");
 	}
 
 }
